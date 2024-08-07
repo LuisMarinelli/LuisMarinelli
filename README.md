@@ -1,19 +1,17 @@
 <!-- DEVICONS LINKS INJECT -->
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+
+<h3 align="center">FullStack Developer • Backend & API Specialist • Aspiring Tech Leader</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="LMarinelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="LMarinelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LMarinelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LMarinelli-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LMarinelli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <i class="devicon-php-plain colored"></i>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />              
 </div>
 
-<h3 align="center">
-   FullStack Developer • Backend & API Specialist • Aspiring Tech Leader
-</h3>
-</hr>
+##
 
 <!-- CARD STATS -->
 <div align='center'>
