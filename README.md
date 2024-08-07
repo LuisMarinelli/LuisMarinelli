@@ -1,26 +1,40 @@
+<!-- DEVICONS LINKS INJECT -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+<div style="display: inline_block"><br>
+  <img align="center" alt="LMarinelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="LMarinelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="LMarinelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="LMarinelli-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LMarinelli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <i class="devicon-php-plain colored"></i>          
+</div>
+
 <h3 align="center">
    FullStack Developer • Backend & API Specialist • Aspiring Tech Leader
 </h3>
+</hr>
 
+<!-- CARD STATS -->
 <div align='center'>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarinelli&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />  
+	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />   
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarinelli&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 </div>
-<div><div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<!-- CONTACTS BUTTONS -->
+<div>
+	<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href = "mailto:it.luisbraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	 
 </div>
+
+<!-- SNAKE ANNIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ## 📌 &nbsp;Pinned Repositories
-
 <table>
 	<thead>
 		<tr>
@@ -30,15 +44,15 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
-      <img src="./.github/assets/icons/angular.webp" />
+			<a href="">
+      <img src="" />
       </a>
       </td>
 			<td valign="top">
 			<h3>Angular Playground</h3>
 			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			<a href="">
+ 			 	<img src="" alt="Material de Apoio">
 			</a>
 			</td>
 		</tr>
