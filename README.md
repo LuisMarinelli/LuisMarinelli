@@ -2,7 +2,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <h3 align="center">FullStack Developer • Backend & API Specialist • Aspiring Tech Leader</h3>
-
+	</br>
 <!-- DEVICONS -->
 <div align="center" style="background-color: #6d83a6; border-radius: 10px; padding: 10px; display: inline-block;">
 	<img align="center" alt="LMarinelli-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   	
@@ -20,7 +20,7 @@
 	<img  align="center" alt="LMarinelli-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />			
 	<img align="center" alt="LMarinelli-MariaDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 </div>
-
+	</br>
 <!-- CARD STATS -->
 <div align='center'>
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />   
