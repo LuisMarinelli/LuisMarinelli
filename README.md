@@ -4,7 +4,7 @@
 <h3 align="center">FullStack Developer • Backend & API Specialist • Aspiring Tech Leader</h3>
 
 <!-- DEVICONS -->
-<div style="display: inline_block"><br>
+<div align="center" style="background-color: #6d83a6; border-radius: 10px; padding: 10px; display: inline-block;">
 	<img align="center" alt="LMarinelli-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   	
 	<img align="center" alt="LMarinelli-Blazor" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />                 
 	<img align="center" alt="LMarinelli-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />		
@@ -28,10 +28,10 @@
 </div>
 
 <!-- CONTACTS BUTTONS -->
-<div aling="center">
+<div align="center">
 	<a href="https://www.linkedin.com/in/lu%C3%ADs-marinelli-803429124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
 	<a href="https://www.instagram.com/luis.marinelli.9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href = "mailto:it.luisbraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	 
+	<a href="mailto:it.luisbraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	 
 </div>
 
 <!-- SNAKE ANNIMATION -->
