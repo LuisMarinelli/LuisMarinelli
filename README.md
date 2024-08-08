@@ -1,27 +1,9 @@
-<!-- DEVICONS LINKS INJECT -->
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h2 align="center">FullStack Developer • Backend & API Specialist • Aspiring Tech Leader</h2>
 
-<h3 align="center">FullStack Developer • Backend & API Specialist • Aspiring Tech Leader</h3>
-</br>
-
-<!-- DEVICONS -->
-<div align="center">
-	<img align="center" alt="LMarinelli-CSharp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   	
-	<img align="center" alt="LMarinelli-Blazor" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />                 
-	<img align="center" alt="LMarinelli-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />		
-	<img align="center" alt="LMarinelli-PHPLaravel" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />          
-	<img align="center" alt="LMarinelli-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-	<img align="center" alt="LMarinelli-JQuery" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />          
-	<img align="center" alt="LMarinelli-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="LMarinelli-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-	<img align="center" alt="LMarinelli-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
-	<br><br>
-	<img align="center" alt="LMarinelli-Oracle" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />	
-	<img align="center" alt="LMarinelli-MySql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />          
-	<img  align="center" alt="LMarinelli-SqlServer" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-	<img align="center" alt="LMarinelli-MariaDb" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+<div align='center' class="container" style="border-radius:150px;">
+	<img src="https://github.com/LuisMarinelli/MyLanguages/blob/777629265ca8e684473557b0d5de5830aaa75614/GitHub%20Background.gif" alt="LuisMarionelli-My_ProgramLanguages" style="width:50%; max-width:600px;">	
 </div>
-	<hr>
+<hr>	
 <!-- CARD STATS -->
 <div align='center'>
 	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&theme=gotham&rank_icon=github"/>   
@@ -79,3 +61,23 @@
 	</tbody>
 </table>
 -->
+
+<!-- DEVICONS -->
+<!-- DEVICONS LINKS INJECT 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div align="center">
+	<img align="center" alt="LMarinelli-CSharp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   	
+	<img align="center" alt="LMarinelli-Blazor" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />                 
+	<img align="center" alt="LMarinelli-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />		
+	<img align="center" alt="LMarinelli-PHPLaravel" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />          
+	<img align="center" alt="LMarinelli-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+	<img align="center" alt="LMarinelli-JQuery" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />          
+	<img align="center" alt="LMarinelli-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="LMarinelli-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+	<img align="center" alt="LMarinelli-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
+	<br><br>
+	<img align="center" alt="LMarinelli-Oracle" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />	
+	<img align="center" alt="LMarinelli-MySql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />          
+	<img  align="center" alt="LMarinelli-SqlServer" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+	<img align="center" alt="LMarinelli-MariaDb" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+</div>-->
