@@ -6,8 +6,8 @@
 <hr>	
 <!-- CARD STATS -->
 <div align='center'>
-	<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&theme=gotham&rank_icon=github"/>   
-	<img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarinelli&layout=compact&theme=gotham"/>  	
+	<img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisMarinelli&show_icons=true&count_private=true&theme=gotham&rank_icon=github"/>   
+	<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarinelli&layout=compact&theme=gotham"/>  	
 </div>
 </br>
 <hr>
